@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sadia Rahman
 - 👀 I’m interested in competitive programming and data science
-- 🌱 I’m currently in my 3rd year of Engineering
+- 🌱 I’m currently in my 4th year of Engineering
 - 📫 you can reach out to me at sadia.o.rahman@slrtce.in
 
 <!---
